@@ -6,3 +6,5 @@
 12345
 Вливание ветки через pull request
 Вливание ветки через GitHub + pull request
+
+Feature too
